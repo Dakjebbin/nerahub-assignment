@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+
+}
+
+
+.Bishop{
+    width: 100px;
+}
+header{
+    align-items: center;
+    max-width: 1000px;
+    margin: 0px auto;
+background-color: brown;
+display: flex;
+justify-content: space-between;
+}
+.melek{
+    display: flex;
+    list-style: none;
+}
+.melek li{ 
+    margin: 0px 10px;
+    padding: 10px;
+    
+}
